@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\bài tập vận dụng phép toán\obj\Debug\bài tập vận dụng phép toán.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\bài tập vận dụng phép toán\obj\Debug\bài tập vận dụng phép toán.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\bài tập vận dụng phép toán\bin\Debug\bài tập vận dụng phép toán.exe.config
+C:\Users\Acer\source\repos\bài tập vận dụng phép toán\bin\Debug\bài tập vận dụng phép toán.exe
+C:\Users\Acer\source\repos\bài tập vận dụng phép toán\bin\Debug\bài tập vận dụng phép toán.pdb
+C:\Users\Acer\source\repos\bài tập vận dụng phép toán\obj\Debug\bài tập vận dụng phép toán.exe
+C:\Users\Acer\source\repos\bài tập vận dụng phép toán\obj\Debug\bài tập vận dụng phép toán.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\bài7\bin\Debug\bài7.exe.config
+C:\Users\Acer\source\repos\bài7\bin\Debug\bài7.exe
+C:\Users\Acer\source\repos\bài7\bin\Debug\bài7.pdb
+C:\Users\Acer\source\repos\bài7\obj\Debug\bài7.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\bài7\obj\Debug\bài7.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\bài7\obj\Debug\bài7.exe
+C:\Users\Acer\source\repos\bài7\obj\Debug\bài7.pdb

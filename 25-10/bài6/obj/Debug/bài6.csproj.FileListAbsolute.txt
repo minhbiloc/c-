@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\bài6\obj\Debug\bài6.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\bài6\obj\Debug\bài6.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\bài6\bin\Debug\bài6.exe.config
+C:\Users\Acer\source\repos\bài6\bin\Debug\bài6.exe
+C:\Users\Acer\source\repos\bài6\bin\Debug\bài6.pdb
+C:\Users\Acer\source\repos\bài6\obj\Debug\bài6.exe
+C:\Users\Acer\source\repos\bài6\obj\Debug\bài6.pdb

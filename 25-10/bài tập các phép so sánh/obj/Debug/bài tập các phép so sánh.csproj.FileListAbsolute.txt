@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\bài tập các phép so sánh\obj\Debug\bài tập các phép so sánh.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\bài tập các phép so sánh\obj\Debug\bài tập các phép so sánh.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\bài tập các phép so sánh\bin\Debug\bài tập các phép so sánh.exe.config
+C:\Users\Acer\source\repos\bài tập các phép so sánh\bin\Debug\bài tập các phép so sánh.exe
+C:\Users\Acer\source\repos\bài tập các phép so sánh\bin\Debug\bài tập các phép so sánh.pdb
+C:\Users\Acer\source\repos\bài tập các phép so sánh\obj\Debug\bài tập các phép so sánh.exe
+C:\Users\Acer\source\repos\bài tập các phép so sánh\obj\Debug\bài tập các phép so sánh.pdb

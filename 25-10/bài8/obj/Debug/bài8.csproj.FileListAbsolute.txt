@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\bài8\bin\Debug\bài8.exe.config
+C:\Users\Acer\source\repos\bài8\bin\Debug\bài8.exe
+C:\Users\Acer\source\repos\bài8\bin\Debug\bài8.pdb
+C:\Users\Acer\source\repos\bài8\obj\Debug\bài8.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\bài8\obj\Debug\bài8.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\bài8\obj\Debug\bài8.exe
+C:\Users\Acer\source\repos\bài8\obj\Debug\bài8.pdb
