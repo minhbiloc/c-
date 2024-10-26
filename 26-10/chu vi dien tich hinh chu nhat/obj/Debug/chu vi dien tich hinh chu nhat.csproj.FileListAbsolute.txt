@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\chu vi dien tich hinh chu nhat\bin\Debug\chu vi dien tich hinh chu nhat.exe.config
+C:\Users\Acer\source\repos\chu vi dien tich hinh chu nhat\bin\Debug\chu vi dien tich hinh chu nhat.exe
+C:\Users\Acer\source\repos\chu vi dien tich hinh chu nhat\bin\Debug\chu vi dien tich hinh chu nhat.pdb
+C:\Users\Acer\source\repos\chu vi dien tich hinh chu nhat\obj\Debug\chu vi dien tich hinh chu nhat.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\chu vi dien tich hinh chu nhat\obj\Debug\chu vi dien tich hinh chu nhat.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\chu vi dien tich hinh chu nhat\obj\Debug\chu vi dien tich hinh chu nhat.exe
+C:\Users\Acer\source\repos\chu vi dien tich hinh chu nhat\obj\Debug\chu vi dien tich hinh chu nhat.pdb

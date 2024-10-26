@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\bai10\bin\Debug\bai10.exe.config
+C:\Users\Acer\source\repos\bai10\bin\Debug\bai10.exe
+C:\Users\Acer\source\repos\bai10\bin\Debug\bai10.pdb
+C:\Users\Acer\source\repos\bai10\obj\Debug\bai10.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\bai10\obj\Debug\bai10.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\bai10\obj\Debug\bai10.exe
+C:\Users\Acer\source\repos\bai10\obj\Debug\bai10.pdb
