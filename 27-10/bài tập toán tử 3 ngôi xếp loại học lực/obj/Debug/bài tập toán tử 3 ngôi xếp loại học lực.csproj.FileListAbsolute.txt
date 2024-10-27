@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\bài tập toán tử 3 ngôi xếp loại học lực\bin\Debug\bài tập toán tử 3 ngôi xếp loại học lực.exe.config
+C:\Users\Acer\source\repos\bài tập toán tử 3 ngôi xếp loại học lực\bin\Debug\bài tập toán tử 3 ngôi xếp loại học lực.exe
+C:\Users\Acer\source\repos\bài tập toán tử 3 ngôi xếp loại học lực\bin\Debug\bài tập toán tử 3 ngôi xếp loại học lực.pdb
+C:\Users\Acer\source\repos\bài tập toán tử 3 ngôi xếp loại học lực\obj\Debug\bài tập toán tử 3 ngôi xếp loại học lực.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\bài tập toán tử 3 ngôi xếp loại học lực\obj\Debug\bài tập toán tử 3 ngôi xếp loại học lực.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\bài tập toán tử 3 ngôi xếp loại học lực\obj\Debug\bài tập toán tử 3 ngôi xếp loại học lực.exe
+C:\Users\Acer\source\repos\bài tập toán tử 3 ngôi xếp loại học lực\obj\Debug\bài tập toán tử 3 ngôi xếp loại học lực.pdb

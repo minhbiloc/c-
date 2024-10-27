@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\giải phương trình bậc 2\obj\Debug\giải phương trình bậc 2.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\giải phương trình bậc 2\obj\Debug\giải phương trình bậc 2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\giải phương trình bậc 2\bin\Debug\giải phương trình bậc 2.exe.config
+C:\Users\Acer\source\repos\giải phương trình bậc 2\bin\Debug\giải phương trình bậc 2.exe
+C:\Users\Acer\source\repos\giải phương trình bậc 2\bin\Debug\giải phương trình bậc 2.pdb
+C:\Users\Acer\source\repos\giải phương trình bậc 2\obj\Debug\giải phương trình bậc 2.exe
+C:\Users\Acer\source\repos\giải phương trình bậc 2\obj\Debug\giải phương trình bậc 2.pdb

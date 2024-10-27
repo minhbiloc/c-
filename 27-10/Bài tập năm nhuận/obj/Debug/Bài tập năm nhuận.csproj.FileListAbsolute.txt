@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Bài tập năm nhuận\bin\Debug\Bài tập năm nhuận.exe.config
+C:\Users\Acer\source\repos\Bài tập năm nhuận\bin\Debug\Bài tập năm nhuận.exe
+C:\Users\Acer\source\repos\Bài tập năm nhuận\bin\Debug\Bài tập năm nhuận.pdb
+C:\Users\Acer\source\repos\Bài tập năm nhuận\obj\Debug\Bài tập năm nhuận.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Bài tập năm nhuận\obj\Debug\Bài tập năm nhuận.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Bài tập năm nhuận\obj\Debug\Bài tập năm nhuận.exe
+C:\Users\Acer\source\repos\Bài tập năm nhuận\obj\Debug\Bài tập năm nhuận.pdb

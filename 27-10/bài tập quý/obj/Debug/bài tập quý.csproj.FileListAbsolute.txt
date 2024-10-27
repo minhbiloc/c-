@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\bài tập quý\bin\Debug\bài tập quý.exe.config
+C:\Users\Acer\source\repos\bài tập quý\bin\Debug\bài tập quý.exe
+C:\Users\Acer\source\repos\bài tập quý\bin\Debug\bài tập quý.pdb
+C:\Users\Acer\source\repos\bài tập quý\obj\Debug\bài tập quý.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\bài tập quý\obj\Debug\bài tập quý.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\bài tập quý\obj\Debug\bài tập quý.exe
+C:\Users\Acer\source\repos\bài tập quý\obj\Debug\bài tập quý.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\bài tập tìm tháng bao nhiêu ngày\obj\Debug\bài tập tìm tháng bao nhiêu ngày.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\bài tập tìm tháng bao nhiêu ngày\obj\Debug\bài tập tìm tháng bao nhiêu ngày.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\bài tập tìm tháng bao nhiêu ngày\bin\Debug\bài tập tìm tháng bao nhiêu ngày.exe.config
+C:\Users\Acer\source\repos\bài tập tìm tháng bao nhiêu ngày\bin\Debug\bài tập tìm tháng bao nhiêu ngày.exe
+C:\Users\Acer\source\repos\bài tập tìm tháng bao nhiêu ngày\bin\Debug\bài tập tìm tháng bao nhiêu ngày.pdb
+C:\Users\Acer\source\repos\bài tập tìm tháng bao nhiêu ngày\obj\Debug\bài tập tìm tháng bao nhiêu ngày.exe
+C:\Users\Acer\source\repos\bài tập tìm tháng bao nhiêu ngày\obj\Debug\bài tập tìm tháng bao nhiêu ngày.pdb

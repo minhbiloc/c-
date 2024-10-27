@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\bài tập vận dụng if else\obj\Debug\bài tập vận dụng if else.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\bài tập vận dụng if else\obj\Debug\bài tập vận dụng if else.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\bài tập vận dụng if else\bin\Debug\bài tập vận dụng if else.exe.config
+C:\Users\Acer\source\repos\bài tập vận dụng if else\bin\Debug\bài tập vận dụng if else.exe
+C:\Users\Acer\source\repos\bài tập vận dụng if else\bin\Debug\bài tập vận dụng if else.pdb
+C:\Users\Acer\source\repos\bài tập vận dụng if else\obj\Debug\bài tập vận dụng if else.exe
+C:\Users\Acer\source\repos\bài tập vận dụng if else\obj\Debug\bài tập vận dụng if else.pdb
+C:\Users\Acer\source\repos\tong va hieu\bin\Debug\bài tập vận dụng if else.exe.config
+C:\Users\Acer\source\repos\tong va hieu\bin\Debug\bài tập vận dụng if else.exe
+C:\Users\Acer\source\repos\tong va hieu\bin\Debug\bài tập vận dụng if else.pdb
+C:\Users\Acer\source\repos\tong va hieu\obj\Debug\bài tập vận dụng if else.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\tong va hieu\obj\Debug\bài tập vận dụng if else.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\tong va hieu\obj\Debug\bài tập vận dụng if else.exe
+C:\Users\Acer\source\repos\tong va hieu\obj\Debug\bài tập vận dụng if else.pdb
