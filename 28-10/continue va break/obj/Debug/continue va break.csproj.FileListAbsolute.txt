@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\continue va break\bin\Debug\continue va break.exe.config
+C:\Users\Acer\source\repos\continue va break\bin\Debug\continue va break.exe
+C:\Users\Acer\source\repos\continue va break\bin\Debug\continue va break.pdb
+C:\Users\Acer\source\repos\continue va break\obj\Debug\continue va break.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\continue va break\obj\Debug\continue va break.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\continue va break\obj\Debug\continue va break.exe
+C:\Users\Acer\source\repos\continue va break\obj\Debug\continue va break.pdb

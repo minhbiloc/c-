@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\while true\bin\Debug\while true.exe.config
+C:\Users\Acer\source\repos\while true\bin\Debug\while true.exe
+C:\Users\Acer\source\repos\while true\bin\Debug\while true.pdb
+C:\Users\Acer\source\repos\while true\obj\Debug\while true.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\while true\obj\Debug\while true.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\while true\obj\Debug\while true.exe
+C:\Users\Acer\source\repos\while true\obj\Debug\while true.pdb

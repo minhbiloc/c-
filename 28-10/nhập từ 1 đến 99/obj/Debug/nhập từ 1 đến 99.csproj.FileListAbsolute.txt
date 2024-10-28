@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\nhập từ 1 đến 99\bin\Debug\nhập từ 1 đến 99.exe.config
+C:\Users\Acer\source\repos\nhập từ 1 đến 99\bin\Debug\nhập từ 1 đến 99.exe
+C:\Users\Acer\source\repos\nhập từ 1 đến 99\bin\Debug\nhập từ 1 đến 99.pdb
+C:\Users\Acer\source\repos\nhập từ 1 đến 99\obj\Debug\nhập từ 1 đến 99.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\nhập từ 1 đến 99\obj\Debug\nhập từ 1 đến 99.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\nhập từ 1 đến 99\obj\Debug\nhập từ 1 đến 99.exe
+C:\Users\Acer\source\repos\nhập từ 1 đến 99\obj\Debug\nhập từ 1 đến 99.pdb

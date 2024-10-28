@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\tính tổng cách số chẵn\bin\Debug\tính tổng cách số chẵn.exe.config
+C:\Users\Acer\source\repos\tính tổng cách số chẵn\bin\Debug\tính tổng cách số chẵn.exe
+C:\Users\Acer\source\repos\tính tổng cách số chẵn\bin\Debug\tính tổng cách số chẵn.pdb
+C:\Users\Acer\source\repos\tính tổng cách số chẵn\obj\Debug\tính tổng cách số chẵn.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\tính tổng cách số chẵn\obj\Debug\tính tổng cách số chẵn.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\tính tổng cách số chẵn\obj\Debug\tính tổng cách số chẵn.exe
+C:\Users\Acer\source\repos\tính tổng cách số chẵn\obj\Debug\tính tổng cách số chẵn.pdb

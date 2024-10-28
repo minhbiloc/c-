@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\bài tập giai thừa\bin\Debug\bài tập giai thừa.exe.config
+C:\Users\Acer\source\repos\bài tập giai thừa\bin\Debug\bài tập giai thừa.exe
+C:\Users\Acer\source\repos\bài tập giai thừa\bin\Debug\bài tập giai thừa.pdb
+C:\Users\Acer\source\repos\bài tập giai thừa\obj\Debug\bài tập giai thừa.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\bài tập giai thừa\obj\Debug\bài tập giai thừa.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\bài tập giai thừa\obj\Debug\bài tập giai thừa.exe
+C:\Users\Acer\source\repos\bài tập giai thừa\obj\Debug\bài tập giai thừa.pdb

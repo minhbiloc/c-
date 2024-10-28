@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\làm bài tập switch case\bin\Debug\làm bài tập switch case.exe.config
+C:\Users\Acer\source\repos\làm bài tập switch case\bin\Debug\làm bài tập switch case.exe
+C:\Users\Acer\source\repos\làm bài tập switch case\bin\Debug\làm bài tập switch case.pdb
+C:\Users\Acer\source\repos\làm bài tập switch case\obj\Debug\làm bài tập switch case.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\làm bài tập switch case\obj\Debug\làm bài tập switch case.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\làm bài tập switch case\obj\Debug\làm bài tập switch case.exe
+C:\Users\Acer\source\repos\làm bài tập switch case\obj\Debug\làm bài tập switch case.pdb

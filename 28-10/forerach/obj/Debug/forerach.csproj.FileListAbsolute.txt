@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\forerach\bin\Debug\forerach.exe.config
+C:\Users\Acer\source\repos\forerach\bin\Debug\forerach.exe
+C:\Users\Acer\source\repos\forerach\bin\Debug\forerach.pdb
+C:\Users\Acer\source\repos\forerach\obj\Debug\forerach.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\forerach\obj\Debug\forerach.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\forerach\obj\Debug\forerach.exe
+C:\Users\Acer\source\repos\forerach\obj\Debug\forerach.pdb

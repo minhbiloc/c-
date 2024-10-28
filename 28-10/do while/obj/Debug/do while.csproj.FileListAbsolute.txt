@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\do while\obj\Debug\do while.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\do while\obj\Debug\do while.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\do while\bin\Debug\do while.exe.config
+C:\Users\Acer\source\repos\do while\bin\Debug\do while.exe
+C:\Users\Acer\source\repos\do while\bin\Debug\do while.pdb
+C:\Users\Acer\source\repos\do while\obj\Debug\do while.exe
+C:\Users\Acer\source\repos\do while\obj\Debug\do while.pdb

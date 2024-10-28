@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\vong for\obj\Debug\vong for.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\vong for\obj\Debug\vong for.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\vong for\bin\Debug\vong for.exe.config
+C:\Users\Acer\source\repos\vong for\bin\Debug\vong for.exe
+C:\Users\Acer\source\repos\vong for\bin\Debug\vong for.pdb
+C:\Users\Acer\source\repos\vong for\obj\Debug\vong for.exe
+C:\Users\Acer\source\repos\vong for\obj\Debug\vong for.pdb

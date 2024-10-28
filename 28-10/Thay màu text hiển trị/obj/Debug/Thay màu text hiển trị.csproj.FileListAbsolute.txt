@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Thay màu text hiển trị\bin\Debug\Thay màu text hiển trị.exe.config
+C:\Users\Acer\source\repos\Thay màu text hiển trị\bin\Debug\Thay màu text hiển trị.exe
+C:\Users\Acer\source\repos\Thay màu text hiển trị\bin\Debug\Thay màu text hiển trị.pdb
+C:\Users\Acer\source\repos\Thay màu text hiển trị\obj\Debug\Thay màu text hiển trị.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Thay màu text hiển trị\obj\Debug\Thay màu text hiển trị.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Thay màu text hiển trị\obj\Debug\Thay màu text hiển trị.exe
+C:\Users\Acer\source\repos\Thay màu text hiển trị\obj\Debug\Thay màu text hiển trị.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\tong le 1 den n\bin\Debug\tong le 1 den n.exe.config
+C:\Users\Acer\source\repos\tong le 1 den n\bin\Debug\tong le 1 den n.exe
+C:\Users\Acer\source\repos\tong le 1 den n\bin\Debug\tong le 1 den n.pdb
+C:\Users\Acer\source\repos\tong le 1 den n\obj\Debug\tong le 1 den n.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\tong le 1 den n\obj\Debug\tong le 1 den n.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\tong le 1 den n\obj\Debug\tong le 1 den n.exe
+C:\Users\Acer\source\repos\tong le 1 den n\obj\Debug\tong le 1 den n.pdb
