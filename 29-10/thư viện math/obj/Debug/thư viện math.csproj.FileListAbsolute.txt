@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\29-10\thư viện math\bin\Debug\thư viện math.exe.config
+C:\Users\Acer\source\repos\29-10\thư viện math\bin\Debug\thư viện math.exe
+C:\Users\Acer\source\repos\29-10\thư viện math\bin\Debug\thư viện math.pdb
+C:\Users\Acer\source\repos\29-10\thư viện math\obj\Debug\thư viện math.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\29-10\thư viện math\obj\Debug\thư viện math.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\29-10\thư viện math\obj\Debug\thư viện math.exe
+C:\Users\Acer\source\repos\29-10\thư viện math\obj\Debug\thư viện math.pdb

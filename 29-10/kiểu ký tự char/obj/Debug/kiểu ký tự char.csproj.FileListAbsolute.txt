@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\29-10\kiểu ký tự char\bin\Debug\kiểu ký tự char.exe.config
+C:\Users\Acer\source\repos\29-10\kiểu ký tự char\bin\Debug\kiểu ký tự char.exe
+C:\Users\Acer\source\repos\29-10\kiểu ký tự char\bin\Debug\kiểu ký tự char.pdb
+C:\Users\Acer\source\repos\29-10\kiểu ký tự char\obj\Debug\kiểu ký tự char.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\29-10\kiểu ký tự char\obj\Debug\kiểu ký tự char.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\29-10\kiểu ký tự char\obj\Debug\kiểu ký tự char.exe
+C:\Users\Acer\source\repos\29-10\kiểu ký tự char\obj\Debug\kiểu ký tự char.pdb

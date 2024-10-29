@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\29-10\kiem tra so nguyên tó\bin\Debug\kiem tra so nguyên tó.exe.config
+C:\Users\Acer\source\repos\29-10\kiem tra so nguyên tó\bin\Debug\kiem tra so nguyên tó.exe
+C:\Users\Acer\source\repos\29-10\kiem tra so nguyên tó\bin\Debug\kiem tra so nguyên tó.pdb
+C:\Users\Acer\source\repos\29-10\kiem tra so nguyên tó\obj\Debug\kiem tra so nguyên tó.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\29-10\kiem tra so nguyên tó\obj\Debug\kiem tra so nguyên tó.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\29-10\kiem tra so nguyên tó\obj\Debug\kiem tra so nguyên tó.exe
+C:\Users\Acer\source\repos\29-10\kiem tra so nguyên tó\obj\Debug\kiem tra so nguyên tó.pdb

@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\29-10\chuong trình chia hết 3 từ 10 đến 50\bin\Debug\chuong trình chia hết 3 từ 10 đến 50.exe.config
+C:\Users\Acer\source\repos\29-10\chuong trình chia hết 3 từ 10 đến 50\bin\Debug\chuong trình chia hết 3 từ 10 đến 50.exe
+C:\Users\Acer\source\repos\29-10\chuong trình chia hết 3 từ 10 đến 50\bin\Debug\chuong trình chia hết 3 từ 10 đến 50.pdb
+C:\Users\Acer\source\repos\29-10\chuong trình chia hết 3 từ 10 đến 50\obj\Debug\chuong trình chia hết 3 từ 10 đến 50.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\29-10\chuong trình chia hết 3 từ 10 đến 50\obj\Debug\chuong trình chia hết 3 từ 10 đến 50.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\29-10\chuong trình chia hết 3 từ 10 đến 50\obj\Debug\chuong trình chia hết 3 từ 10 đến 50.exe
+C:\Users\Acer\source\repos\29-10\chuong trình chia hết 3 từ 10 đến 50\obj\Debug\chuong trình chia hết 3 từ 10 đến 50.pdb

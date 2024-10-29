@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\29-10\datetime\bin\Debug\datetime.exe.config
+C:\Users\Acer\source\repos\29-10\datetime\bin\Debug\datetime.exe
+C:\Users\Acer\source\repos\29-10\datetime\bin\Debug\datetime.pdb
+C:\Users\Acer\source\repos\29-10\datetime\obj\Debug\datetime.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\29-10\datetime\obj\Debug\datetime.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\29-10\datetime\obj\Debug\datetime.exe
+C:\Users\Acer\source\repos\29-10\datetime\obj\Debug\datetime.pdb
