@@ -1,0 +1,7 @@
+D:\github\baitapc#\30-10\bài tập tổng tbc chuỗi\obj\Debug\bài tập tổng tbc chuỗi.csproj.AssemblyReference.cache
+D:\github\baitapc#\30-10\bài tập tổng tbc chuỗi\obj\Debug\bài tập tổng tbc chuỗi.csproj.CoreCompileInputs.cache
+D:\github\baitapc#\30-10\bài tập tổng tbc chuỗi\bin\Debug\bài tập tổng tbc chuỗi.exe.config
+D:\github\baitapc#\30-10\bài tập tổng tbc chuỗi\bin\Debug\bài tập tổng tbc chuỗi.exe
+D:\github\baitapc#\30-10\bài tập tổng tbc chuỗi\bin\Debug\bài tập tổng tbc chuỗi.pdb
+D:\github\baitapc#\30-10\bài tập tổng tbc chuỗi\obj\Debug\bài tập tổng tbc chuỗi.exe
+D:\github\baitapc#\30-10\bài tập tổng tbc chuỗi\obj\Debug\bài tập tổng tbc chuỗi.pdb

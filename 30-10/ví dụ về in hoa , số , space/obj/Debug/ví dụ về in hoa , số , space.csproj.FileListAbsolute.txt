@@ -1,0 +1,7 @@
+D:\github\baitapc#\30-10\ví dụ về in hoa , số , space\obj\Debug\ví dụ về in hoa , số , space.csproj.AssemblyReference.cache
+D:\github\baitapc#\30-10\ví dụ về in hoa , số , space\obj\Debug\ví dụ về in hoa , số , space.csproj.CoreCompileInputs.cache
+D:\github\baitapc#\30-10\ví dụ về in hoa , số , space\bin\Debug\ví dụ về in hoa , số , space.exe.config
+D:\github\baitapc#\30-10\ví dụ về in hoa , số , space\bin\Debug\ví dụ về in hoa , số , space.exe
+D:\github\baitapc#\30-10\ví dụ về in hoa , số , space\bin\Debug\ví dụ về in hoa , số , space.pdb
+D:\github\baitapc#\30-10\ví dụ về in hoa , số , space\obj\Debug\ví dụ về in hoa , số , space.exe
+D:\github\baitapc#\30-10\ví dụ về in hoa , số , space\obj\Debug\ví dụ về in hoa , số , space.pdb

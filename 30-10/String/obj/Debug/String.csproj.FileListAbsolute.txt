@@ -1,0 +1,7 @@
+D:\github\baitapc#\30-10\String\obj\Debug\String.csproj.AssemblyReference.cache
+D:\github\baitapc#\30-10\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+D:\github\baitapc#\30-10\String\bin\Debug\String.exe.config
+D:\github\baitapc#\30-10\String\bin\Debug\String.exe
+D:\github\baitapc#\30-10\String\bin\Debug\String.pdb
+D:\github\baitapc#\30-10\String\obj\Debug\String.exe
+D:\github\baitapc#\30-10\String\obj\Debug\String.pdb
