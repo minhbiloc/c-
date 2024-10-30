@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\viết chương trình chuyển tin nhắn sang mật mã bảng\bin\Debug\viết chương trình chuyển tin nhắn sang mật mã bảng.exe.config
+C:\Users\Acer\source\repos\viết chương trình chuyển tin nhắn sang mật mã bảng\bin\Debug\viết chương trình chuyển tin nhắn sang mật mã bảng.exe
+C:\Users\Acer\source\repos\viết chương trình chuyển tin nhắn sang mật mã bảng\bin\Debug\viết chương trình chuyển tin nhắn sang mật mã bảng.pdb
+C:\Users\Acer\source\repos\viết chương trình chuyển tin nhắn sang mật mã bảng\obj\Debug\viết chương trình chuyển tin nhắn sang mật mã bảng.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\viết chương trình chuyển tin nhắn sang mật mã bảng\obj\Debug\viết chương trình chuyển tin nhắn sang mật mã bảng.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\viết chương trình chuyển tin nhắn sang mật mã bảng\obj\Debug\viết chương trình chuyển tin nhắn sang mật mã bảng.exe
+C:\Users\Acer\source\repos\viết chương trình chuyển tin nhắn sang mật mã bảng\obj\Debug\viết chương trình chuyển tin nhắn sang mật mã bảng.pdb

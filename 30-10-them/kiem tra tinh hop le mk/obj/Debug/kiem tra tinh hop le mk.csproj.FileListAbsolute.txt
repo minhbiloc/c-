@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\kiem tra tinh hop le mk\bin\Debug\kiem tra tinh hop le mk.exe.config
+C:\Users\Acer\source\repos\kiem tra tinh hop le mk\bin\Debug\kiem tra tinh hop le mk.exe
+C:\Users\Acer\source\repos\kiem tra tinh hop le mk\bin\Debug\kiem tra tinh hop le mk.pdb
+C:\Users\Acer\source\repos\kiem tra tinh hop le mk\obj\Debug\kiem tra tinh hop le mk.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\kiem tra tinh hop le mk\obj\Debug\kiem tra tinh hop le mk.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\kiem tra tinh hop le mk\obj\Debug\kiem tra tinh hop le mk.exe
+C:\Users\Acer\source\repos\kiem tra tinh hop le mk\obj\Debug\kiem tra tinh hop le mk.pdb
