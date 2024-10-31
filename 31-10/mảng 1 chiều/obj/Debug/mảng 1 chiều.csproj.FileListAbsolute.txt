@@ -1,0 +1,7 @@
+D:\github\baitapc#\31-10\mảng 1 chiều\bin\Debug\mảng 1 chiều.exe.config
+D:\github\baitapc#\31-10\mảng 1 chiều\bin\Debug\mảng 1 chiều.exe
+D:\github\baitapc#\31-10\mảng 1 chiều\bin\Debug\mảng 1 chiều.pdb
+D:\github\baitapc#\31-10\mảng 1 chiều\obj\Debug\mảng 1 chiều.csproj.AssemblyReference.cache
+D:\github\baitapc#\31-10\mảng 1 chiều\obj\Debug\mảng 1 chiều.csproj.CoreCompileInputs.cache
+D:\github\baitapc#\31-10\mảng 1 chiều\obj\Debug\mảng 1 chiều.exe
+D:\github\baitapc#\31-10\mảng 1 chiều\obj\Debug\mảng 1 chiều.pdb

@@ -1,0 +1,7 @@
+D:\github\baitapc#\31-10\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\github\baitapc#\31-10\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\github\baitapc#\31-10\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\github\baitapc#\31-10\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+D:\github\baitapc#\31-10\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\github\baitapc#\31-10\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\github\baitapc#\31-10\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

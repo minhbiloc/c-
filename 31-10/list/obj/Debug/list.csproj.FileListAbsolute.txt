@@ -1,0 +1,7 @@
+D:\github\baitapc#\31-10\list\bin\Debug\list.exe.config
+D:\github\baitapc#\31-10\list\bin\Debug\list.exe
+D:\github\baitapc#\31-10\list\bin\Debug\list.pdb
+D:\github\baitapc#\31-10\list\obj\Debug\list.csproj.AssemblyReference.cache
+D:\github\baitapc#\31-10\list\obj\Debug\list.csproj.CoreCompileInputs.cache
+D:\github\baitapc#\31-10\list\obj\Debug\list.exe
+D:\github\baitapc#\31-10\list\obj\Debug\list.pdb

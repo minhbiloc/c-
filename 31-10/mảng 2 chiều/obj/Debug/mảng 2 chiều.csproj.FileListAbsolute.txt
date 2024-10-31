@@ -1,0 +1,7 @@
+D:\github\baitapc#\31-10\mảng 2 chiều\bin\Debug\mảng 2 chiều.exe.config
+D:\github\baitapc#\31-10\mảng 2 chiều\bin\Debug\mảng 2 chiều.exe
+D:\github\baitapc#\31-10\mảng 2 chiều\bin\Debug\mảng 2 chiều.pdb
+D:\github\baitapc#\31-10\mảng 2 chiều\obj\Debug\mảng 2 chiều.csproj.AssemblyReference.cache
+D:\github\baitapc#\31-10\mảng 2 chiều\obj\Debug\mảng 2 chiều.csproj.CoreCompileInputs.cache
+D:\github\baitapc#\31-10\mảng 2 chiều\obj\Debug\mảng 2 chiều.exe
+D:\github\baitapc#\31-10\mảng 2 chiều\obj\Debug\mảng 2 chiều.pdb
