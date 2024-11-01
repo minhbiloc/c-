@@ -1,0 +1,7 @@
+D:\github\baitapc#\1-11\viết chương trình trả lời các phép toán\bin\Debug\viết chương trình trả lời các phép toán.exe.config
+D:\github\baitapc#\1-11\viết chương trình trả lời các phép toán\bin\Debug\viết chương trình trả lời các phép toán.exe
+D:\github\baitapc#\1-11\viết chương trình trả lời các phép toán\bin\Debug\viết chương trình trả lời các phép toán.pdb
+D:\github\baitapc#\1-11\viết chương trình trả lời các phép toán\obj\Debug\viết chương trình trả lời các phép toán.csproj.AssemblyReference.cache
+D:\github\baitapc#\1-11\viết chương trình trả lời các phép toán\obj\Debug\viết chương trình trả lời các phép toán.csproj.CoreCompileInputs.cache
+D:\github\baitapc#\1-11\viết chương trình trả lời các phép toán\obj\Debug\viết chương trình trả lời các phép toán.exe
+D:\github\baitapc#\1-11\viết chương trình trả lời các phép toán\obj\Debug\viết chương trình trả lời các phép toán.pdb

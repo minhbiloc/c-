@@ -1,0 +1,7 @@
+D:\github\baitapc#\1-11\in ra có bao nhiêu số nhỏ hơn 5 và in ra vị trí indexx các số đó\bin\Debug\in ra có bao nhiêu số nhỏ hơn 5 và in ra vị trí indexx các số đó.exe.config
+D:\github\baitapc#\1-11\in ra có bao nhiêu số nhỏ hơn 5 và in ra vị trí indexx các số đó\bin\Debug\in ra có bao nhiêu số nhỏ hơn 5 và in ra vị trí indexx các số đó.exe
+D:\github\baitapc#\1-11\in ra có bao nhiêu số nhỏ hơn 5 và in ra vị trí indexx các số đó\bin\Debug\in ra có bao nhiêu số nhỏ hơn 5 và in ra vị trí indexx các số đó.pdb
+D:\github\baitapc#\1-11\in ra có bao nhiêu số nhỏ hơn 5 và in ra vị trí indexx các số đó\obj\Debug\in ra có bao nhiêu số nhỏ hơn 5 và in ra vị trí indexx các số đó.csproj.AssemblyReference.cache
+D:\github\baitapc#\1-11\in ra có bao nhiêu số nhỏ hơn 5 và in ra vị trí indexx các số đó\obj\Debug\in ra có bao nhiêu số nhỏ hơn 5 và in ra vị trí indexx các số đó.csproj.CoreCompileInputs.cache
+D:\github\baitapc#\1-11\in ra có bao nhiêu số nhỏ hơn 5 và in ra vị trí indexx các số đó\obj\Debug\in ra có bao nhiêu số nhỏ hơn 5 và in ra vị trí indexx các số đó.exe
+D:\github\baitapc#\1-11\in ra có bao nhiêu số nhỏ hơn 5 và in ra vị trí indexx các số đó\obj\Debug\in ra có bao nhiêu số nhỏ hơn 5 và in ra vị trí indexx các số đó.pdb

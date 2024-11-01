@@ -1,0 +1,7 @@
+D:\github\baitapc#\1-11\dictionary\bin\Debug\dictionary.exe.config
+D:\github\baitapc#\1-11\dictionary\bin\Debug\dictionary.exe
+D:\github\baitapc#\1-11\dictionary\bin\Debug\dictionary.pdb
+D:\github\baitapc#\1-11\dictionary\obj\Debug\dictionary.csproj.AssemblyReference.cache
+D:\github\baitapc#\1-11\dictionary\obj\Debug\dictionary.csproj.CoreCompileInputs.cache
+D:\github\baitapc#\1-11\dictionary\obj\Debug\dictionary.exe
+D:\github\baitapc#\1-11\dictionary\obj\Debug\dictionary.pdb

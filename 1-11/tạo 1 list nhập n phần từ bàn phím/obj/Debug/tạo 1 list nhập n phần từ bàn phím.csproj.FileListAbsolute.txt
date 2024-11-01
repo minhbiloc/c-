@@ -1,0 +1,7 @@
+D:\github\baitapc#\1-11\tạo 1 list nhập n phần từ bàn phím\obj\Debug\tạo 1 list nhập n phần từ bàn phím.csproj.AssemblyReference.cache
+D:\github\baitapc#\1-11\tạo 1 list nhập n phần từ bàn phím\obj\Debug\tạo 1 list nhập n phần từ bàn phím.csproj.CoreCompileInputs.cache
+D:\github\baitapc#\1-11\tạo 1 list nhập n phần từ bàn phím\bin\Debug\tạo 1 list nhập n phần từ bàn phím.exe.config
+D:\github\baitapc#\1-11\tạo 1 list nhập n phần từ bàn phím\bin\Debug\tạo 1 list nhập n phần từ bàn phím.exe
+D:\github\baitapc#\1-11\tạo 1 list nhập n phần từ bàn phím\bin\Debug\tạo 1 list nhập n phần từ bàn phím.pdb
+D:\github\baitapc#\1-11\tạo 1 list nhập n phần từ bàn phím\obj\Debug\tạo 1 list nhập n phần từ bàn phím.exe
+D:\github\baitapc#\1-11\tạo 1 list nhập n phần từ bàn phím\obj\Debug\tạo 1 list nhập n phần từ bàn phím.pdb

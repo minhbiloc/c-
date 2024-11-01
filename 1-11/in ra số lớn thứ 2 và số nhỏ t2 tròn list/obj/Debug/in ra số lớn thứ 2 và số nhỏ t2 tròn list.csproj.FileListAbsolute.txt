@@ -1,0 +1,7 @@
+D:\github\baitapc#\1-11\in ra số lớn thứ 2 và số nhỏ t2 tròn list\bin\Debug\in ra số lớn thứ 2 và số nhỏ t2 tròn list.exe.config
+D:\github\baitapc#\1-11\in ra số lớn thứ 2 và số nhỏ t2 tròn list\bin\Debug\in ra số lớn thứ 2 và số nhỏ t2 tròn list.exe
+D:\github\baitapc#\1-11\in ra số lớn thứ 2 và số nhỏ t2 tròn list\bin\Debug\in ra số lớn thứ 2 và số nhỏ t2 tròn list.pdb
+D:\github\baitapc#\1-11\in ra số lớn thứ 2 và số nhỏ t2 tròn list\obj\Debug\in ra số lớn thứ 2 và số nhỏ t2 tròn list.csproj.AssemblyReference.cache
+D:\github\baitapc#\1-11\in ra số lớn thứ 2 và số nhỏ t2 tròn list\obj\Debug\in ra số lớn thứ 2 và số nhỏ t2 tròn list.csproj.CoreCompileInputs.cache
+D:\github\baitapc#\1-11\in ra số lớn thứ 2 và số nhỏ t2 tròn list\obj\Debug\in ra số lớn thứ 2 và số nhỏ t2 tròn list.exe
+D:\github\baitapc#\1-11\in ra số lớn thứ 2 và số nhỏ t2 tròn list\obj\Debug\in ra số lớn thứ 2 và số nhỏ t2 tròn list.pdb

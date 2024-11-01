@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\baitapc#\\1-11\\t\u1EA1o 1 list nh\u1EADp n ph\u1EA7n t\u1EEB b\u00E0n ph\u00EDm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3FC338-26DA-4AC2-AE65-64322DE89FE9}|t\u1EA1o 1 list nh\u1EADp n ph\u1EA7n t\u1EEB b\u00E0n ph\u00EDm.csproj|d:\\github\\baitapc#\\1-11\\t\u1EA1o 1 list nh\u1EADp n ph\u1EA7n t\u1EEB b\u00E0n ph\u00EDm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3FC338-26DA-4AC2-AE65-64322DE89FE9}|t\u1EA1o 1 list nh\u1EADp n ph\u1EA7n t\u1EEB b\u00E0n ph\u00EDm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github\\baitapc#\\1-11\\t\u1EA1o 1 list nh\u1EADp n ph\u1EA7n t\u1EEB b\u00E0n ph\u00EDm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\github\\baitapc#\\1-11\\t\u1EA1o 1 list nh\u1EADp n ph\u1EA7n t\u1EEB b\u00E0n ph\u00EDm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:58:55.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

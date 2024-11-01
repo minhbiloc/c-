@@ -1,0 +1,7 @@
+D:\github\baitapc#\1-11\1 list bình phương xác định bao nhiêu phần tử lớn hơn 50\bin\Debug\1 list bình phương xác định bao nhiêu phần tử lớn hơn 50.exe.config
+D:\github\baitapc#\1-11\1 list bình phương xác định bao nhiêu phần tử lớn hơn 50\bin\Debug\1 list bình phương xác định bao nhiêu phần tử lớn hơn 50.exe
+D:\github\baitapc#\1-11\1 list bình phương xác định bao nhiêu phần tử lớn hơn 50\bin\Debug\1 list bình phương xác định bao nhiêu phần tử lớn hơn 50.pdb
+D:\github\baitapc#\1-11\1 list bình phương xác định bao nhiêu phần tử lớn hơn 50\obj\Debug\1 list bình phương xác định bao nhiêu phần tử lớn hơn 50.csproj.AssemblyReference.cache
+D:\github\baitapc#\1-11\1 list bình phương xác định bao nhiêu phần tử lớn hơn 50\obj\Debug\1 list bình phương xác định bao nhiêu phần tử lớn hơn 50.csproj.CoreCompileInputs.cache
+D:\github\baitapc#\1-11\1 list bình phương xác định bao nhiêu phần tử lớn hơn 50\obj\Debug\1 list bình phương xác định bao nhiêu phần tử lớn hơn 50.exe
+D:\github\baitapc#\1-11\1 list bình phương xác định bao nhiêu phần tử lớn hơn 50\obj\Debug\1 list bình phương xác định bao nhiêu phần tử lớn hơn 50.pdb
