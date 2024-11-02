@@ -1,0 +1,7 @@
+D:\github\baitapc#\2-11\bài 21  sử lý ngoại lệ\obj\Debug\bài 21  sử lý ngoại lệ.csproj.AssemblyReference.cache
+D:\github\baitapc#\2-11\bài 21  sử lý ngoại lệ\obj\Debug\bài 21  sử lý ngoại lệ.csproj.CoreCompileInputs.cache
+D:\github\baitapc#\2-11\bài 21  sử lý ngoại lệ\bin\Debug\bài 21  sử lý ngoại lệ.exe.config
+D:\github\baitapc#\2-11\bài 21  sử lý ngoại lệ\bin\Debug\bài 21  sử lý ngoại lệ.exe
+D:\github\baitapc#\2-11\bài 21  sử lý ngoại lệ\bin\Debug\bài 21  sử lý ngoại lệ.pdb
+D:\github\baitapc#\2-11\bài 21  sử lý ngoại lệ\obj\Debug\bài 21  sử lý ngoại lệ.exe
+D:\github\baitapc#\2-11\bài 21  sử lý ngoại lệ\obj\Debug\bài 21  sử lý ngoại lệ.pdb

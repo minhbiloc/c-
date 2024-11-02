@@ -1,0 +1,7 @@
+D:\github\baitapc#\2-11\kế thừa\bin\Debug\kế thừa.exe.config
+D:\github\baitapc#\2-11\kế thừa\bin\Debug\kế thừa.exe
+D:\github\baitapc#\2-11\kế thừa\bin\Debug\kế thừa.pdb
+D:\github\baitapc#\2-11\kế thừa\obj\Debug\kế thừa.csproj.AssemblyReference.cache
+D:\github\baitapc#\2-11\kế thừa\obj\Debug\kế thừa.csproj.CoreCompileInputs.cache
+D:\github\baitapc#\2-11\kế thừa\obj\Debug\kế thừa.exe
+D:\github\baitapc#\2-11\kế thừa\obj\Debug\kế thừa.pdb

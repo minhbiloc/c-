@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\baitapc#\\2-11\\k\u1EBF th\u1EEBa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{943B5563-1445-49EA-926B-9E53856590B4}|k\u1EBF th\u1EEBa.csproj|D:\\github\\baitapc#\\2-11\\k\u1EBF th\u1EEBa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943B5563-1445-49EA-926B-9E53856590B4}|k\u1EBF th\u1EEBa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943B5563-1445-49EA-926B-9E53856590B4}|k\u1EBF th\u1EEBa.csproj|d:\\github\\baitapc#\\2-11\\k\u1EBF th\u1EEBa\\nhanvienhanhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943B5563-1445-49EA-926B-9E53856590B4}|k\u1EBF th\u1EEBa.csproj|solutionrelative:nhanvienhanhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943B5563-1445-49EA-926B-9E53856590B4}|k\u1EBF th\u1EEBa.csproj|D:\\github\\baitapc#\\2-11\\k\u1EBF th\u1EEBa\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943B5563-1445-49EA-926B-9E53856590B4}|k\u1EBF th\u1EEBa.csproj|solutionrelative:nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943B5563-1445-49EA-926B-9E53856590B4}|k\u1EBF th\u1EEBa.csproj|D:\\github\\baitapc#\\2-11\\k\u1EBF th\u1EEBa\\nhanviendica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943B5563-1445-49EA-926B-9E53856590B4}|k\u1EBF th\u1EEBa.csproj|solutionrelative:nhanviendica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVienHanhChinh.cs",
+              "DocumentMoniker": "D:\\github\\baitapc#\\2-11\\k\u1EBF th\u1EEBa\\NhanVienHanhChinh.cs",
+              "RelativeDocumentMoniker": "NhanVienHanhChinh.cs",
+              "ToolTip": "D:\\github\\baitapc#\\2-11\\k\u1EBF th\u1EEBa\\NhanVienHanhChinh.cs*",
+              "RelativeToolTip": "NhanVienHanhChinh.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:54:15.418Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github\\baitapc#\\2-11\\k\u1EBF th\u1EEBa\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\github\\baitapc#\\2-11\\k\u1EBF th\u1EEBa\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:53:37.861Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhanVienDiCa.cs",
+              "DocumentMoniker": "D:\\github\\baitapc#\\2-11\\k\u1EBF th\u1EEBa\\NhanVienDiCa.cs",
+              "RelativeDocumentMoniker": "NhanVienDiCa.cs",
+              "ToolTip": "D:\\github\\baitapc#\\2-11\\k\u1EBF th\u1EEBa\\NhanVienDiCa.cs",
+              "RelativeToolTip": "NhanVienDiCa.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:54:47.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\github\\baitapc#\\2-11\\k\u1EBF th\u1EEBa\\NhanVien.cs",
+              "RelativeDocumentMoniker": "NhanVien.cs",
+              "ToolTip": "D:\\github\\baitapc#\\2-11\\k\u1EBF th\u1EEBa\\NhanVien.cs*",
+              "RelativeToolTip": "NhanVien.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:53:50.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

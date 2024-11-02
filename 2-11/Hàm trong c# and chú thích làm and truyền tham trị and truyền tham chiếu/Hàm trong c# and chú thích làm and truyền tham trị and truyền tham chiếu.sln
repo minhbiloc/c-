@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hàm trong c# and chú thích làm and truyền tham trị and truyền tham chiếu", "Hàm trong c# and chú thích làm and truyền tham trị and truyền tham chiếu.csproj", "{97213B2F-4CB7-4ECC-A2C4-35AD6292CC8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97213B2F-4CB7-4ECC-A2C4-35AD6292CC8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97213B2F-4CB7-4ECC-A2C4-35AD6292CC8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97213B2F-4CB7-4ECC-A2C4-35AD6292CC8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97213B2F-4CB7-4ECC-A2C4-35AD6292CC8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D239F379-FB82-478B-A262-D5B19582B778}
+	EndGlobalSection
+EndGlobal

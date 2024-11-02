@@ -1,0 +1,7 @@
+D:\github\baitapc#\2-11\tách số và chữ , hiển thị lên màn hình\obj\Debug\tách số và chữ , hiển thị lên màn hình.csproj.AssemblyReference.cache
+D:\github\baitapc#\2-11\tách số và chữ , hiển thị lên màn hình\obj\Debug\tách số và chữ , hiển thị lên màn hình.csproj.CoreCompileInputs.cache
+D:\github\baitapc#\2-11\tách số và chữ , hiển thị lên màn hình\bin\Debug\tách số và chữ , hiển thị lên màn hình.exe.config
+D:\github\baitapc#\2-11\tách số và chữ , hiển thị lên màn hình\bin\Debug\tách số và chữ , hiển thị lên màn hình.exe
+D:\github\baitapc#\2-11\tách số và chữ , hiển thị lên màn hình\bin\Debug\tách số và chữ , hiển thị lên màn hình.pdb
+D:\github\baitapc#\2-11\tách số và chữ , hiển thị lên màn hình\obj\Debug\tách số và chữ , hiển thị lên màn hình.exe
+D:\github\baitapc#\2-11\tách số và chữ , hiển thị lên màn hình\obj\Debug\tách số và chữ , hiển thị lên màn hình.pdb

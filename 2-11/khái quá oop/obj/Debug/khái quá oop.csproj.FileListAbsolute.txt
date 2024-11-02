@@ -1,0 +1,7 @@
+D:\github\baitapc#\2-11\khái quá oop\bin\Debug\khái quá oop.exe.config
+D:\github\baitapc#\2-11\khái quá oop\bin\Debug\khái quá oop.exe
+D:\github\baitapc#\2-11\khái quá oop\bin\Debug\khái quá oop.pdb
+D:\github\baitapc#\2-11\khái quá oop\obj\Debug\khái quá oop.csproj.AssemblyReference.cache
+D:\github\baitapc#\2-11\khái quá oop\obj\Debug\khái quá oop.csproj.CoreCompileInputs.cache
+D:\github\baitapc#\2-11\khái quá oop\obj\Debug\khái quá oop.exe
+D:\github\baitapc#\2-11\khái quá oop\obj\Debug\khái quá oop.pdb
