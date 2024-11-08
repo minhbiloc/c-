@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\baitaphuongdoituong\MonAn\bin\Debug\MonAn.exe.config
+C:\Users\Acer\source\repos\baitaphuongdoituong\MonAn\bin\Debug\MonAn.exe
+C:\Users\Acer\source\repos\baitaphuongdoituong\MonAn\bin\Debug\MonAn.pdb
+C:\Users\Acer\source\repos\baitaphuongdoituong\MonAn\obj\Debug\MonAn.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\baitaphuongdoituong\MonAn\obj\Debug\MonAn.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\baitaphuongdoituong\MonAn\obj\Debug\MonAn.exe
+C:\Users\Acer\source\repos\baitaphuongdoituong\MonAn\obj\Debug\MonAn.pdb

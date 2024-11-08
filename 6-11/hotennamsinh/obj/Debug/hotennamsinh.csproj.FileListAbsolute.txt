@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\baitaphuongdoituong\hotennamsinh\obj\Debug\hotennamsinh.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\baitaphuongdoituong\hotennamsinh\obj\Debug\hotennamsinh.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\baitaphuongdoituong\hotennamsinh\bin\Debug\hotennamsinh.exe.config
+C:\Users\Acer\source\repos\baitaphuongdoituong\hotennamsinh\bin\Debug\hotennamsinh.exe
+C:\Users\Acer\source\repos\baitaphuongdoituong\hotennamsinh\bin\Debug\hotennamsinh.pdb
+C:\Users\Acer\source\repos\baitaphuongdoituong\hotennamsinh\obj\Debug\hotennamsinh.exe
+C:\Users\Acer\source\repos\baitaphuongdoituong\hotennamsinh\obj\Debug\hotennamsinh.pdb

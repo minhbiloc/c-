@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\baitaphuongdoituong\\soThuc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{730C1DDC-3749-4B53-AB6A-E2F075BD9BD6}|soThuc.csproj|c:\\users\\acer\\source\\repos\\baitaphuongdoituong\\sothuc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730C1DDC-3749-4B53-AB6A-E2F075BD9BD6}|soThuc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730C1DDC-3749-4B53-AB6A-E2F075BD9BD6}|soThuc.csproj|C:\\Users\\Acer\\source\\repos\\baitaphuongdoituong\\soThuc\\sothuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730C1DDC-3749-4B53-AB6A-E2F075BD9BD6}|soThuc.csproj|solutionrelative:sothuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoThuc.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\baitaphuongdoituong\\soThuc\\SoThuc.cs",
+              "RelativeDocumentMoniker": "SoThuc.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\baitaphuongdoituong\\soThuc\\SoThuc.cs",
+              "RelativeToolTip": "SoThuc.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:25:44.185Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\baitaphuongdoituong\\soThuc\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\baitaphuongdoituong\\soThuc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:55:13.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

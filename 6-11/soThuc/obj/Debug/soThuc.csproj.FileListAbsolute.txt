@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\baitaphuongdoituong\soThuc\obj\Debug\soThuc.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\baitaphuongdoituong\soThuc\obj\Debug\soThuc.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\baitaphuongdoituong\soThuc\bin\Debug\soThuc.exe.config
+C:\Users\Acer\source\repos\baitaphuongdoituong\soThuc\bin\Debug\soThuc.exe
+C:\Users\Acer\source\repos\baitaphuongdoituong\soThuc\bin\Debug\soThuc.pdb
+C:\Users\Acer\source\repos\baitaphuongdoituong\soThuc\obj\Debug\soThuc.exe
+C:\Users\Acer\source\repos\baitaphuongdoituong\soThuc\obj\Debug\soThuc.pdb
