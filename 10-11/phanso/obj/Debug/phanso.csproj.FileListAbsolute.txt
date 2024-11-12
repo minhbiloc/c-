@@ -1,0 +1,7 @@
+D:\github\baitapc#\10-11\phanso\bin\Debug\phanso.exe.config
+D:\github\baitapc#\10-11\phanso\bin\Debug\phanso.exe
+D:\github\baitapc#\10-11\phanso\bin\Debug\phanso.pdb
+D:\github\baitapc#\10-11\phanso\obj\Debug\phanso.csproj.AssemblyReference.cache
+D:\github\baitapc#\10-11\phanso\obj\Debug\phanso.csproj.CoreCompileInputs.cache
+D:\github\baitapc#\10-11\phanso\obj\Debug\phanso.exe
+D:\github\baitapc#\10-11\phanso\obj\Debug\phanso.pdb

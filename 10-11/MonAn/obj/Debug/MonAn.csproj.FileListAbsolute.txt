@@ -1,0 +1,7 @@
+D:\github\baitapc#\10-11\MonAn\bin\Debug\MonAn.exe.config
+D:\github\baitapc#\10-11\MonAn\bin\Debug\MonAn.exe
+D:\github\baitapc#\10-11\MonAn\bin\Debug\MonAn.pdb
+D:\github\baitapc#\10-11\MonAn\obj\Debug\MonAn.csproj.AssemblyReference.cache
+D:\github\baitapc#\10-11\MonAn\obj\Debug\MonAn.csproj.CoreCompileInputs.cache
+D:\github\baitapc#\10-11\MonAn\obj\Debug\MonAn.exe
+D:\github\baitapc#\10-11\MonAn\obj\Debug\MonAn.pdb

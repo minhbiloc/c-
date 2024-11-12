@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\baitapc#\\10-11\\MonAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A70EA2-0203-45E6-B08A-9247160843C1}|MonAn.csproj|D:\\github\\baitapc#\\10-11\\MonAn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A70EA2-0203-45E6-B08A-9247160843C1}|MonAn.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A70EA2-0203-45E6-B08A-9247160843C1}|MonAn.csproj|D:\\github\\baitapc#\\10-11\\MonAn\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A70EA2-0203-45E6-B08A-9247160843C1}|MonAn.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A70EA2-0203-45E6-B08A-9247160843C1}|MonAn.csproj|D:\\github\\baitapc#\\10-11\\MonAn\\phanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A70EA2-0203-45E6-B08A-9247160843C1}|MonAn.csproj|solutionrelative:phanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A70EA2-0203-45E6-B08A-9247160843C1}|MonAn.csproj|d:\\github\\baitapc#\\10-11\\monan\\sophuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A70EA2-0203-45E6-B08A-9247160843C1}|MonAn.csproj|solutionrelative:sophuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A70EA2-0203-45E6-B08A-9247160843C1}|MonAn.csproj|D:\\github\\baitapc#\\10-11\\MonAn\\monan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A70EA2-0203-45E6-B08A-9247160843C1}|MonAn.csproj|solutionrelative:monan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MonAn.cs",
+              "DocumentMoniker": "D:\\github\\baitapc#\\10-11\\MonAn\\MonAn.cs",
+              "RelativeDocumentMoniker": "MonAn.cs",
+              "ToolTip": "D:\\github\\baitapc#\\10-11\\MonAn\\MonAn.cs",
+              "RelativeToolTip": "MonAn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:58:11.344Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SoPhuc.cs",
+              "DocumentMoniker": "D:\\github\\baitapc#\\10-11\\MonAn\\SoPhuc.cs",
+              "RelativeDocumentMoniker": "SoPhuc.cs",
+              "ToolTip": "D:\\github\\baitapc#\\10-11\\MonAn\\SoPhuc.cs",
+              "RelativeToolTip": "SoPhuc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:09:47.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhanSo.cs",
+              "DocumentMoniker": "D:\\github\\baitapc#\\10-11\\MonAn\\PhanSo.cs",
+              "RelativeDocumentMoniker": "PhanSo.cs",
+              "ToolTip": "D:\\github\\baitapc#\\10-11\\MonAn\\PhanSo.cs",
+              "RelativeToolTip": "PhanSo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:08:03.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "menu.cs",
+              "DocumentMoniker": "D:\\github\\baitapc#\\10-11\\MonAn\\menu.cs",
+              "RelativeDocumentMoniker": "menu.cs",
+              "ToolTip": "D:\\github\\baitapc#\\10-11\\MonAn\\menu.cs",
+              "RelativeToolTip": "menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:51:10.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github\\baitapc#\\10-11\\MonAn\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\github\\baitapc#\\10-11\\MonAn\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:50:45.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
