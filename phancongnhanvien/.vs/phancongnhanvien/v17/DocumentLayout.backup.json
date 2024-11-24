@@ -1,0 +1,513 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\service\\inplement\\service_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:service\\inplement\\service_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\service\\inplement\\service_duan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:service\\inplement\\service_duan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\controllers\\controller_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:controllers\\controller_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\service\\interface\\iservice_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:service\\interface\\iservice_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\payload\\dto\\dto_phancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:payload\\dto\\dto_phancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\payload\\dto\\dto_duan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:payload\\dto\\dto_duan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\payload\\dto\\dto_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:payload\\dto\\dto_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\payload\\converter\\converter_phancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:payload\\converter\\converter_phancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\payload\\converter\\converter_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:payload\\converter\\converter_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\payload\\converter\\converter_duan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:payload\\converter\\converter_duan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\datacontext\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:datacontext\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\payload\\response\\responseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:payload\\response\\responseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\payload\\request\\phancong\\request_themphancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:payload\\request\\phancong\\request_themphancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\controllers\\controller_duan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:controllers\\controller_duan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\payload\\response\\responsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:payload\\response\\responsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\payload\\request\\phancong\\request_suaphancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:payload\\request\\phancong\\request_suaphancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\service\\interface\\iservice_duan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:service\\interface\\iservice_duan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\payload\\request\\nhanvien\\request_themnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:payload\\request\\nhanvien\\request_themnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\payload\\request\\nhanvien\\request_suanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:payload\\request\\nhanvien\\request_suanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\entities\\duan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:entities\\duan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\entities\\phancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:entities\\phancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\phancongnhanvien.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:phancongnhanvien.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\entities\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:entities\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\payload\\request\\duan\\request_suaduan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:payload\\request\\duan\\request_suaduan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\payload\\request\\duan\\request_themduan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:payload\\request\\duan\\request_themduan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|c:\\users\\acer\\source\\repos\\api\\phancongnhanvien\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29122BE1-BCBF-4307-AD03-625948F15EC5}|phancongnhanvien.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Migrations\\20241124090723_ver1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241124090723_ver1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Converter_PhanCong.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\Converter\\Converter_PhanCong.cs",
+              "RelativeDocumentMoniker": "Payload\\Converter\\Converter_PhanCong.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\Converter\\Converter_PhanCong.cs",
+              "RelativeToolTip": "Payload\\Converter\\Converter_PhanCong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:48:37.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Converter_NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\Converter\\Converter_NhanVien.cs",
+              "RelativeDocumentMoniker": "Payload\\Converter\\Converter_NhanVien.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\Converter\\Converter_NhanVien.cs",
+              "RelativeToolTip": "Payload\\Converter\\Converter_NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:44:53.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DTO_NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\DTO\\DTO_NhanVien.cs",
+              "RelativeDocumentMoniker": "Payload\\DTO\\DTO_NhanVien.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\DTO\\DTO_NhanVien.cs",
+              "RelativeToolTip": "Payload\\DTO\\DTO_NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:43:46.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DTO_DuAn.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\DTO\\DTO_DuAn.cs",
+              "RelativeDocumentMoniker": "Payload\\DTO\\DTO_DuAn.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\DTO\\DTO_DuAn.cs",
+              "RelativeToolTip": "Payload\\DTO\\DTO_DuAn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:17:37.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DTO_PhanCong.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\DTO\\DTO_PhanCong.cs",
+              "RelativeDocumentMoniker": "Payload\\DTO\\DTO_PhanCong.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\DTO\\DTO_PhanCong.cs",
+              "RelativeToolTip": "Payload\\DTO\\DTO_PhanCong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:48:52.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service_DuAn.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\service\\Inplement\\Service_DuAn.cs",
+              "RelativeDocumentMoniker": "service\\Inplement\\Service_DuAn.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\service\\Inplement\\Service_DuAn.cs",
+              "RelativeToolTip": "service\\Inplement\\Service_DuAn.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:36:24.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service_NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\service\\Inplement\\Service_NhanVien.cs",
+              "RelativeDocumentMoniker": "service\\Inplement\\Service_NhanVien.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\service\\Inplement\\Service_NhanVien.cs",
+              "RelativeToolTip": "service\\Inplement\\Service_NhanVien.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:51:40.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IService_NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\service\\Interface\\IService_NhanVien.cs",
+              "RelativeDocumentMoniker": "service\\Interface\\IService_NhanVien.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\service\\Interface\\IService_NhanVien.cs",
+              "RelativeToolTip": "service\\Interface\\IService_NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:51:21.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Controller_NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Controllers\\Controller_NhanVien.cs",
+              "RelativeDocumentMoniker": "Controllers\\Controller_NhanVien.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Controllers\\Controller_NhanVien.cs",
+              "RelativeToolTip": "Controllers\\Controller_NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:01:20.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Converter_DuAn.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\Converter\\Converter_DuAn.cs",
+              "RelativeDocumentMoniker": "Payload\\Converter\\Converter_DuAn.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\Converter\\Converter_DuAn.cs",
+              "RelativeToolTip": "Payload\\Converter\\Converter_DuAn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:22:04.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\DataContext\\AppDataContext.cs",
+              "RelativeDocumentMoniker": "DataContext\\AppDataContext.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\DataContext\\AppDataContext.cs",
+              "RelativeToolTip": "DataContext\\AppDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:55:32.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResponseObject.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\Response\\ResponseObject.cs",
+              "RelativeDocumentMoniker": "Payload\\Response\\ResponseObject.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\Response\\ResponseObject.cs",
+              "RelativeToolTip": "Payload\\Response\\ResponseObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:31:38.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Request_ThemPhanCong.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\Request\\PhanCong\\Request_ThemPhanCong.cs",
+              "RelativeDocumentMoniker": "Payload\\Request\\PhanCong\\Request_ThemPhanCong.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\Request\\PhanCong\\Request_ThemPhanCong.cs",
+              "RelativeToolTip": "Payload\\Request\\PhanCong\\Request_ThemPhanCong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:47:40.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Controller_DuAn.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Controllers\\Controller_DuAn.cs",
+              "RelativeDocumentMoniker": "Controllers\\Controller_DuAn.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Controllers\\Controller_DuAn.cs",
+              "RelativeToolTip": "Controllers\\Controller_DuAn.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:46:16.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResponseBase.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\Response\\ResponseBase.cs",
+              "RelativeDocumentMoniker": "Payload\\Response\\ResponseBase.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\Response\\ResponseBase.cs",
+              "RelativeToolTip": "Payload\\Response\\ResponseBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:31:23.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Request_SuaPhanCong.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\Request\\PhanCong\\Request_SuaPhanCong.cs",
+              "RelativeDocumentMoniker": "Payload\\Request\\PhanCong\\Request_SuaPhanCong.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\Request\\PhanCong\\Request_SuaPhanCong.cs",
+              "RelativeToolTip": "Payload\\Request\\PhanCong\\Request_SuaPhanCong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:47:52.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Request_SuaNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\Request\\NhanVien\\Request_SuaNhanVien.cs",
+              "RelativeDocumentMoniker": "Payload\\Request\\NhanVien\\Request_SuaNhanVien.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\Request\\NhanVien\\Request_SuaNhanVien.cs",
+              "RelativeToolTip": "Payload\\Request\\NhanVien\\Request_SuaNhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:41:38.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Request_ThemNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\Request\\NhanVien\\Request_ThemNhanVien.cs",
+              "RelativeDocumentMoniker": "Payload\\Request\\NhanVien\\Request_ThemNhanVien.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\Request\\NhanVien\\Request_ThemNhanVien.cs",
+              "RelativeToolTip": "Payload\\Request\\NhanVien\\Request_ThemNhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:41:48.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IService_DuAn.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\service\\Interface\\IService_DuAn.cs",
+              "RelativeDocumentMoniker": "service\\Interface\\IService_DuAn.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\service\\Interface\\IService_DuAn.cs",
+              "RelativeToolTip": "service\\Interface\\IService_DuAn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:02:03.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Entities\\EntityBase.cs",
+              "RelativeDocumentMoniker": "Entities\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Entities\\EntityBase.cs",
+              "RelativeToolTip": "Entities\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:57:21.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DuAn.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Entities\\DuAn.cs",
+              "RelativeDocumentMoniker": "Entities\\DuAn.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Entities\\DuAn.cs",
+              "RelativeToolTip": "Entities\\DuAn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:56:58.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PhanCong.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Entities\\PhanCong.cs",
+              "RelativeDocumentMoniker": "Entities\\PhanCong.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Entities\\PhanCong.cs",
+              "RelativeToolTip": "Entities\\PhanCong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:56:47.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:03:40.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "phancongnhanvien.http",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\phancongnhanvien.http",
+              "RelativeDocumentMoniker": "phancongnhanvien.http",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\phancongnhanvien.http",
+              "RelativeToolTip": "phancongnhanvien.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-24T09:03:09.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Entities\\NhanVien.cs",
+              "RelativeDocumentMoniker": "Entities\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Entities\\NhanVien.cs",
+              "RelativeToolTip": "Entities\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:56:32.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Request_SuaDuAn.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\Request\\DuAn\\Request_SuaDuAn.cs",
+              "RelativeDocumentMoniker": "Payload\\Request\\DuAn\\Request_SuaDuAn.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\Request\\DuAn\\Request_SuaDuAn.cs",
+              "RelativeToolTip": "Payload\\Request\\DuAn\\Request_SuaDuAn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:16:02.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Request_ThemDuAn.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\Request\\DuAn\\Request_ThemDuAn.cs",
+              "RelativeDocumentMoniker": "Payload\\Request\\DuAn\\Request_ThemDuAn.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Payload\\Request\\DuAn\\Request_ThemDuAn.cs",
+              "RelativeToolTip": "Payload\\Request\\DuAn\\Request_ThemDuAn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:15:38.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T09:03:10.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241124090723_ver1.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Migrations\\20241124090723_ver1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241124090723_ver1.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\api\\phancongnhanvien\\Migrations\\20241124090723_ver1.cs",
+              "RelativeToolTip": "Migrations\\20241124090723_ver1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:07:23.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

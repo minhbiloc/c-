@@ -1,0 +1,140 @@
+[
+  {
+    "ContainingType": "phancongnhanvien.Controllers.Controller_DuAn",
+    "Method": "getListDuanFull",
+    "RelativePath": "api/Controller_DuAn/L\u1EA5y danh s\u00E1ch d\u1EF1 \u00E1n",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "phancongnhanvien.Controllers.Controller_DuAn",
+    "Method": "SuaDuAn",
+    "RelativePath": "api/Controller_DuAn/s\u1EEDa d\u1EF1 \u00E1n",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "phancongnhanvien.Payload.Request.DuAn.Request_SuaDuAn",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "phancongnhanvien.Controllers.Controller_DuAn",
+    "Method": "ThemDuAn",
+    "RelativePath": "api/Controller_DuAn/Th\u00EAm d\u1EF1 \u00E1n",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "phancongnhanvien.Payload.Request.DuAn.Request_ThemDuAn",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "phancongnhanvien.Controllers.Controller_DuAn",
+    "Method": "XoaDuAn",
+    "RelativePath": "api/Controller_DuAn/X\u00F3a d\u1EF1 \u00E1n",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "DuAnId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "phancongnhanvien.Controllers.Controller_NhanVien",
+    "Method": "getListDuanFull",
+    "RelativePath": "api/Controller_NhanVien/L\u1EA5y danh s\u00E1ch Nh\u00E2n Vi\u00EAn",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "phancongnhanvien.Controllers.Controller_NhanVien",
+    "Method": "SuaNhanVien",
+    "RelativePath": "api/Controller_NhanVien/s\u1EEDa Nh\u00E2n Vi\u00EAn",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "phancongnhanvien.Payload.Request.NhanVien.Request_SuaNhanVien",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "phancongnhanvien.Controllers.Controller_NhanVien",
+    "Method": "ThemNhanVien",
+    "RelativePath": "api/Controller_NhanVien/Th\u00EAm Nh\u00E2n Vi\u00EAn",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "phancongnhanvien.Payload.Request.NhanVien.Request_ThemNhanVien",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "phancongnhanvien.Controllers.Controller_NhanVien",
+    "Method": "XoaNhanVien",
+    "RelativePath": "api/Controller_NhanVien/X\u00F3a Nh\u00E2n Vi\u00EAn",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "DuAnId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
